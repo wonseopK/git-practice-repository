@@ -6,4 +6,5 @@ public class Git2 {
     String feature3;
     String dev3;
     String dev4;
+    String dev5;
 }
