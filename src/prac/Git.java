@@ -5,4 +5,5 @@ public class Git {
     String feature4;
     String feature5;
     String feature6;
+    String feature7;
 }
