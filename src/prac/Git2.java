@@ -8,4 +8,5 @@ public class Git2 {
     String dev4;
     String dev5;
     String dev6;
+    String dev7;
 }
